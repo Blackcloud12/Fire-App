@@ -1,0 +1,7 @@
+c:\users\black\Source\Repos\ChooseFI\ChooseFI\bin\Debug\ChooseFI.exe.config
+c:\users\black\Source\Repos\ChooseFI\ChooseFI\bin\Debug\ChooseFI.exe
+c:\users\black\Source\Repos\ChooseFI\ChooseFI\bin\Debug\ChooseFI.pdb
+c:\users\black\Source\Repos\ChooseFI\ChooseFI\obj\Debug\ChooseFI.csprojAssemblyReference.cache
+c:\users\black\Source\Repos\ChooseFI\ChooseFI\obj\Debug\ChooseFI.csproj.CoreCompileInputs.cache
+c:\users\black\Source\Repos\ChooseFI\ChooseFI\obj\Debug\ChooseFI.exe
+c:\users\black\Source\Repos\ChooseFI\ChooseFI\obj\Debug\ChooseFI.pdb
