@@ -19,7 +19,7 @@ namespace ChooseFI
                 ficalc.DisplayMilestones();
 
                 var debtList = new DebtStacker();
-                string exit = "";
+                //string exit = "";
                 //while (exit.ToLower() != "exit")
                 //{
                 //    debtList.ConsoleAddDebtItem();

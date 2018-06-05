@@ -2,8 +2,9 @@
 {
     struct NesteggSnapshot
     {
-        public double Balance { get; set; }
-        public double Contributions { get; set; }
-        public double Gains { get; set; }
+        public double BalanceOverTime { get; set; }
+        public double ContributionsOverTime { get; set; }
+        public double GainsSoFar { get; set; }
+        public int YearsInvested { get; set; }
     }
 }
