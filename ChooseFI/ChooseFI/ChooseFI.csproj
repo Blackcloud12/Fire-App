@@ -45,6 +45,7 @@
     <Compile Include="DebtItem.cs" />
     <Compile Include="DebtStacker.cs" />
     <Compile Include="FiCalculator.cs" />
+    <Compile Include="InvestmentCalculator.cs" />
     <Compile Include="NesteggSnapshot.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

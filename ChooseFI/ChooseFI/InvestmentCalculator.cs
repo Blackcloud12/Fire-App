@@ -18,14 +18,14 @@
             TimeHorizon = TimeHorizon;
         }
 
-        public double SavingsGoal(double amountNeeded, double interestRate, int yearsUntilDone) //TODO
+        public NesteggSnapshot[] SavingsGoal(double amountNeeded, int yearsUntilDone) //TODO
         {
-            return 0.0;
+            return new NesteggSnapshot[1];
         }
 
-        public void SimulateUntilRetirement(double contributions, double InterestRate, int yearsUntilDone)//TODO
+        public void SimulateUntilRetirement(double contributions, int yearsUntilDone)//TODO
         {
-
+            //... 
         }
 
     }
